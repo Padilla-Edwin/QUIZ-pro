@@ -107,7 +107,7 @@ function getActions() {
       <strong>Tipo de comentario</strong>: ${Comentario}
       <strong>comentario</strong>: ${comentario}
       
-      <a href="#" onclick="deleteAction('${fecha}')" class="btn btn-outline-succes ms-3">Eliminar</a>
+      <a href="#" onclick="deleteAction('${fecha}')" class="btn btn-outline-danger ms-3">Eliminar</a>
       
       </p>
     </div>
@@ -123,7 +123,7 @@ function getActions() {
       <strong>Tipo de comentario</strong>: ${Comentario}
       
       
-      <a href="#" onclick="deleteAction('${fecha}')" class="btn btn-danger ms-3">Eliminar</a>
+      <a href="#" onclick="deleteAction('${fecha}')" class="btn btn-outline-danger ms-3">Eliminar</a>
       
       </p>
     </div>
