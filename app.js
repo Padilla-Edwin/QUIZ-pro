@@ -108,6 +108,7 @@ function getActions() {
       <strong>comentario</strong>: ${comentario}
       
       <a href="#" onclick="deleteAction('${fecha}')" class="btn btn-outline-danger ms-3">Eliminar</a>
+
       
       </p>
     </div>
